@@ -30,6 +30,7 @@ public class Ejemplo03 {
         int valor_inicial = 18;
         // int valor inicial = 18;
         int valor_inicial_2 = 18;
+        
 
         // Tipo de datos Double - Decimal
         double variable3;
